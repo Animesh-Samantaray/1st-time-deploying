@@ -1,0 +1,20 @@
+{
+  "name": "firstdeploy",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "keywords": [
+    "node",
+    "Animesh"
+  ],
+  "license": "ISC",
+  "author": "Animesh Samantaray",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
